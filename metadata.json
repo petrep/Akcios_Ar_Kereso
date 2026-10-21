@@ -1,0 +1,6 @@
+{
+  "name": "ÁrVadász - Magyar Webshop Ár- és Akciókereső",
+  "description": "AI-powered Hungarian webshop price comparison, deal finder, price history tracker, and discount hunter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
